@@ -1,4 +1,4 @@
-# Mondern Standby Fix
+# Modern Standby Fix
 
 Inspired by [**LTT Video about Modern Standby issue**](https://www.youtube.com/watch?v=OHKKcd3sx2c).
 
