@@ -13,5 +13,6 @@ This utility will detect when PC goes into sleep and will automatically disable 
 
 Upon returning from a sleep, it will enable all network adapters that were disabled back on. You can make this app to start on a system startup so it will be always running and monitoring going into sleep and out of it. As it requires an admin elevation to receive notifications about sleep modes, you will be prompted with UCI dialog when the app is started (or on the system startup, if you set it to start automatically).
 
+## Requires [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 # [**Download the latest release here**](https://github.com/martinchrzan/ModernStandbyFix/releases/latest)
